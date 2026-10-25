@@ -40,7 +40,7 @@
     "@types/node": "^26.6.5",
     "@types/semver": "^7.8.0",
     "@vitest/coverage-v8": "^5.0.5",
-    "recheck": "^4.5.0",
+    "recheck": "^4.6.1",
     "size-limit": "^14.2.0",
     "typescript": "^7.0.2",
     "vitest": "^5.0.5"
